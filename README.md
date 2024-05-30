@@ -44,6 +44,7 @@ This command starts the server at `http://localhost:3000`. From there, you can b
 - **Vuex**: For state management across components.
 - **Axios**: For making HTTP requests to fetch recipes.
 - **Tailwind CSS**: For styling the application with a utility-first CSS framework.
+- **API**: TheMealDB API ([website](https://www.themealdb.com/api.php))
 
 ## License
 
